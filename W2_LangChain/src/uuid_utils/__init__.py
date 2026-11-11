@@ -1,0 +1,1 @@
+"""Pure-Python compatibility replacement for uuid_utils."""
